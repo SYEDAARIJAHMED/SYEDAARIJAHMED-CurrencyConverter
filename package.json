@@ -1,0 +1,15 @@
+{
+  "name": "syedaarijahmedcurrency-converter",
+  "version": "1.0.0",
+  "description": "a currency converter with Typescript,Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Arij Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
